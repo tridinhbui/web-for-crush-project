@@ -35,8 +35,6 @@ function firstQuestion(){
 
  // switch button position
  function switchButton() {
-    var audio = new Audio('sound/duck.mp3');
-    audio.play();
     var leftNo = $('#no').css("left");
     var topNO = $('#no').css("top");
     var leftY = $('#yes').css("left");
