@@ -1,18 +1,18 @@
 
    
 const CONFIG = {
-    introTitle: 'Xin chào NK!',
-    introDesc: `Cậu trả lời câu hỏi này cho tớ nhé :>>`,
+    introTitle: 'Hello NK!',
+    introDesc: `Can you answer this question for me? :>>`,
     btnIntro: 'Okie',
     title: 'Hey I do have a crush on you, but do you have a crush on me^^',
-    desc: 'Chắc chắn là thích rồi nhưng tớ hỏi lại cho chắc thoi =)) ',
-    btnYes: 'Vẫn cứ là thích cậu',
-    btnNo: 'Không không khônggggg',
-    question:'Trên thế giới hơn 7 tỉ người mà cậu lại thích tớ luôn =))',
-    btnReply: 'Gửi cho cậu nèe',
-    reply: 'có tớ thích Bùi Đình Trí lam <333333333',
-    mess: 'Biết mà hehe',
-    messDesc: 'Hè này tớ về đứng dưới cửa nhà đợi đón đi chơii nhé',
-    btnAccept: 'Okelunn đi đâu thế :v',
+    desc: 'Pretty sure you do like me but I just wanna ask =)) ',
+    btnYes: 'Yeah i like you so muchhh <33',
+    btnNo: 'No No No I don\'t like youuuu!!',
+    question:'There are 7 billions people in the world and you still like me =))',
+    btnReply: 'Send to you <3',
+    reply: 'yeah I love Tri Bui<333333333',
+    mess: 'I knew it!',
+    messDesc: 'So this summer I will be back to Vietnam and take you to the moonnn',
+    btnAccept: 'Okela where we gonna go? :v',
     messLink: 'https://goo.gl/maps/VzNo1aQu46ChhnDG8' 
 }
